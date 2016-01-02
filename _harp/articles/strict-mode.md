@@ -1,1 +1,1 @@
-<article><h2>strict mode</h2>a document which will set Internet Explorers strict mode.</article>
+<article><h2>strict mode</h2><time><span class="day">4</span><span class="month">7</span><span class="year">106</span></time>a document which will set Internet Explorers strict mode.</article>

@@ -1,1 +1,1 @@
-<article><h2>tools</h2>GetElementValueFromClassName and getElementByClassName</article>
+<article><h2>tools</h2><time><span class="day">3</span><span class="month">2</span><span class="year">107</span></time>GetElementValueFromClassName and getElementByClassName</article>

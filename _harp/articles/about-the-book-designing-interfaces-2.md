@@ -1,1 +1,1 @@
-<article><h2>About the Book - Designing Interfaces</h2><a href="http://designinginterfaces.com/">About the Book - Designing Interfaces</a>Great resource, start of a new collection...</article>
+<article><h2>About the Book - Designing Interfaces</h2><time><span class="day">4</span><span class="month">4</span><span class="year">106</span></time><a href="http://designinginterfaces.com/">About the Book - Designing Interfaces</a>Great resource, start of a new collection...</article>

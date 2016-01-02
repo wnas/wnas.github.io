@@ -1,1 +1,1 @@
-<article><h2>subversion created</h2>Whee, I have just set up my first subversion account go and check out my javascript <a href="http://www.wilfrednas.com/snippets/js/" title="snippets">snippets</a></article>
+<article><h2>subversion created</h2><time><span class="day">3</span><span class="month">9</span><span class="year">107</span></time>Whee, I have just set up my first subversion account go and check out my javascript <a href="http://www.wilfrednas.com/snippets/js/" title="snippets">snippets</a></article>

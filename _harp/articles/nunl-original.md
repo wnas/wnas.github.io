@@ -1,1 +1,1 @@
-<article><h2>nu.nl original</h2>The original html of nu.nl with an added base href...</article>
+<article><h2>nu.nl original</h2><time><span class="day">2</span><span class="month">4</span><span class="year">106</span></time>The original html of nu.nl with an added base href...</article>

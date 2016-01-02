@@ -1,1 +1,1 @@
-<article><h2>Naar voren!</h2><a href="http3A//www.naarvoren.nl/">Naar voren</a>Very good site about webdevelopment in general (in dutch). A must read for any dutch webdeveloper and designer.</article>
+<article><h2>Naar voren!</h2><time><span class="day">2</span><span class="month">1</span><span class="year">105</span></time><a href="http3A//www.naarvoren.nl/">Naar voren</a>Very good site about webdevelopment in general (in dutch). A must read for any dutch webdeveloper and designer.</article>

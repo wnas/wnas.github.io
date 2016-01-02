@@ -1,1 +1,1 @@
-<article><h2>/IE7/</h2><a href="http://dean.edwards.name/IE7/">/IE7/</a>Very, very cool. I will begin to try this one directly and will let you know what comes of it...</article>
+<article><h2>/IE7/</h2><time><span class="day">3</span><span class="month">4</span><span class="year">105</span></time><a href="http://dean.edwards.name/IE7/">/IE7/</a>Very, very cool. I will begin to try this one directly and will let you know what comes of it...</article>

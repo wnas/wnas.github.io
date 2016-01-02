@@ -1,1 +1,1 @@
-<article><h2>zune original</h2>here are the zune buttons as they are now.</article>
+<article><h2>zune original</h2><time><span class="day">4</span><span class="month">11</span><span class="year">106</span></time>here are the zune buttons as they are now.</article>

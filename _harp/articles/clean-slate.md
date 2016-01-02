@@ -1,1 +1,1 @@
-<article><h2>clean slate</h2>a basic html document without any content</article>
+<article><h2>clean slate</h2><time><span class="day">2</span><span class="month">4</span><span class="year">106</span></time>a basic html document without any content</article>

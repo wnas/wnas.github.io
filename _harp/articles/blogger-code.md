@@ -1,1 +1,1 @@
-<article><h2>blogger code</h2>blogger code anyone?<strong>B9 d t+ k s u f+ i+ o x-- e- l- c</strong>get your own at:<a href="http://www.leatheregg.com/bloggercode/">bloggerCode</a></article>
+<article><h2>blogger code</h2><time><span class="day">4</span><span class="month">11</span><span class="year">105</span></time>blogger code anyone?<strong>B9 d t+ k s u f+ i+ o x-- e- l- c</strong>get your own at:<a href="http://www.leatheregg.com/bloggercode/">bloggerCode</a></article>

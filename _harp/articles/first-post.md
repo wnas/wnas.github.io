@@ -1,1 +1,1 @@
-<article><h2>beginning is a time of great peril</h2>Wait and see, this blog is up and running, next step is to redesign this.. wait a couple of days for any real action..</article>
+<article><h2>beginning is a time of great peril</h2><time><span class="day">5</span><span class="month">1</span><span class="year">105</span></time>Wait and see, this blog is up and running, next step is to redesign this.. wait a couple of days for any real action..</article>

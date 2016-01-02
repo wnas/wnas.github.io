@@ -1,1 +1,1 @@
-<article><h2>online in a train</h2>Something I have to share, the Dutch Railways have wireless internet now. On the train...I thought I would never say this, but (for a split second) the NS are cool...(written on a train)</article>
+<article><h2>online in a train</h2><time><span class="day">3</span><span class="month">2</span><span class="year">106</span></time>Something I have to share, the Dutch Railways have wireless internet now. On the train...I thought I would never say this, but (for a split second) the NS are cool...(written on a train)</article>

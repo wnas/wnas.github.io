@@ -1,1 +1,1 @@
-<article><h2>wnas logo in data url</h2><p id="logoURI">logo wnas in data url</p><p>psst, one more way to get the logo without any images... And again, let's not worry about IE. They will get it right sooner or later...</p></article>
+<article><h2>wnas logo in data url</h2><time><span class="day">3</span><span class="month">2</span><span class="year">110</span></time><p id="logoURI">logo wnas in data url</p><p>psst, one more way to get the logo without any images... And again, let's not worry about IE. They will get it right sooner or later...</p></article>

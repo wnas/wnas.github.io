@@ -1,1 +1,1 @@
-<article><h2>the html page</h2></article>
+<article><h2>the html page</h2><time><span class="day">4</span><span class="month">8</span><span class="year">106</span></time></article>

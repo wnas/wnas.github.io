@@ -1,1 +1,1 @@
-<article><h2>@media 2006</h2>yes, it's final, I am going to @media<img alt="@media button" title="@media button" src="http://www.vivabit.com/atmedia2006/images/atmedia_button2.gif " /></article>
+<article><h2>@media 2006</h2><time><span class="day">1</span><span class="month">3</span><span class="year">106</span></time>yes, it's final, I am going to @media<img alt="@media button" title="@media button" src="http://www.vivabit.com/atmedia2006/images/atmedia_button2.gif " /></article>

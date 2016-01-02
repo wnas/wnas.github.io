@@ -1,1 +1,1 @@
-<article><h2>Favelets</h2><a href="http://tantek.com/favelets/">Favelets</a>A nice to have developer toolkit....(for Sander)</article>
+<article><h2>Favelets</h2><time><span class="day">4</span><span class="month">6</span><span class="year">105</span></time><a href="http://tantek.com/favelets/">Favelets</a>A nice to have developer toolkit....(for Sander)</article>

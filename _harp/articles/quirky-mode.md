@@ -1,1 +1,1 @@
-<article><h2>quirky mode</h2>a document which will throw Internet Explorer in quirky mode and show you the faulty box model.</article>
+<article><h2>quirky mode</h2><time><span class="day">4</span><span class="month">7</span><span class="year">106</span></time>a document which will throw Internet Explorer in quirky mode and show you the faulty box model.</article>
