@@ -1,1 +1,1 @@
-<article><h2>MAX-WIDTH and flexible layout with short lines [usability, accessibility]</h2><time><span class="day">0</span><span class="month">9</span><span class="year">105</span></time>undefined</article>
+<article><h2>MAX-WIDTH and flexible layout with short lines [usability, accessibility]</h2><time><span class="day">16</span><span class="month">10</span><span class="year">2005</span></time>undefined</article>

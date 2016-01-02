@@ -8,9 +8,9 @@ var fs = require("fs");
  
  for ( var i in x){
  	var date = new Date(x[i].pubdate*1000),
- 		day = '<span class="day">'+date.getDay()+'</span>',
- 		month = '<span class="month">'+date.getMonth()+'</span>',
- 		year = '<span class="year">'+date.getYear()+'</span>';
+ 		day = '<span class="day">'+date.getDate()+'</span>',
+ 		month = '<span class="month">'+(date.getMonth()+1)+'</span>',
+ 		year = '<span class="year">'+date.getFullYear()+'</span>';
 
  	var filename = x[i].slug+'.md',
  		title = '<h2>'+ x[i].title + '</h2>',

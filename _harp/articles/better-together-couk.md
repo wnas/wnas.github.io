@@ -1,1 +1,1 @@
-<article><h2>Better Together .co.uk</h2><time><span class="day">1</span><span class="month">7</span><span class="year">106</span></time><p><a href="http://better-together.co.uk/index.html">Better Together .co.uk</a></p>funny.</article>
+<article><h2>Better Together .co.uk</h2><time><span class="day">21</span><span class="month">8</span><span class="year">2006</span></time><p><a href="http://better-together.co.uk/index.html">Better Together .co.uk</a></p>funny.</article>

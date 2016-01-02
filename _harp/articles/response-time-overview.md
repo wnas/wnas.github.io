@@ -1,1 +1,1 @@
-<article><h2>Response Time Overview</h2><time><span class="day">4</span><span class="month">6</span><span class="year">105</span></time><a href="http://www.useit.com/papers/responsetime.html">Response Time Overview</a>Stuff I am researching now, with Jmeter...</article>
+<article><h2>Response Time Overview</h2><time><span class="day">14</span><span class="month">7</span><span class="year">2005</span></time><a href="http://www.useit.com/papers/responsetime.html">Response Time Overview</a>Stuff I am researching now, with Jmeter...</article>

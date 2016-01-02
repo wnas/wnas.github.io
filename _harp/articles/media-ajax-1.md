@@ -1,1 +1,1 @@
-<article><h2>@media Ajax</h2><time><span class="day">1</span><span class="month">6</span><span class="year">107</span></time></article>
+<article><h2>@media Ajax</h2><time><span class="day">30</span><span class="month">7</span><span class="year">2007</span></time></article>

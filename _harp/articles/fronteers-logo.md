@@ -1,1 +1,1 @@
-<article><h2>fronteers logo</h2><time><span class="day">3</span><span class="month">11</span><span class="year">107</span></time>logo van fronteers - vakvereniging voor front-end developers</article>
+<article><h2>fronteers logo</h2><time><span class="day">19</span><span class="month">12</span><span class="year">2007</span></time>logo van fronteers - vakvereniging voor front-end developers</article>

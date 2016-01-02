@@ -1,1 +1,1 @@
-<article><h2>brainjar</h2><time><span class="day">5</span><span class="month">11</span><span class="year">105</span></time><a href="http://www.brainjar.com/dhtml/intro/">dom explanation</a>, duh</article>
+<article><h2>brainjar</h2><time><span class="day">9</span><span class="month">12</span><span class="year">2005</span></time><a href="http://www.brainjar.com/dhtml/intro/">dom explanation</a>, duh</article>
