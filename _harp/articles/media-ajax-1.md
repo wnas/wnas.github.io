@@ -1,0 +1,1 @@
+<article><h2>@media Ajax</h2></article>

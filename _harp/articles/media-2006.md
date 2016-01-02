@@ -1,0 +1,1 @@
+<article><h2>@media 2006</h2>yes, it's final, I am going to @media<img alt="@media button" title="@media button" src="http://www.vivabit.com/atmedia2006/images/atmedia_button2.gif " /></article>

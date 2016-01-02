@@ -1,0 +1,1 @@
+<article><h2>The Macalope Weekly</h2><blockquote><p>"But the Macalope will be surprised if people move away from the iPhone in droves because of a technology that eases the lives of developers instead of users."</p></blockquote><p>(Via <a href="http://www.macworld.com/article/151281/2010/05/macalope_flashback.html">The Macalope Weekly</a></p></article>

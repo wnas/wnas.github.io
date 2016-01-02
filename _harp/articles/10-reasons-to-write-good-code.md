@@ -1,0 +1,1 @@
+<article><h2>10 reasons to write good code</h2><a title="10 reasons" href="http://www.456bereastreet.com/archive/200512/ten_reasons_to_learn_and_use_web_standards/">10 reasons</a> to write good code ...</article>

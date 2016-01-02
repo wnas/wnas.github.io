@@ -1,0 +1,1 @@
+<article><h2>PHP Cheat Sheet - PHP - ILoveJackDaniels.com</h2><a href="http://www.ilovejackdaniels.com/php/php-cheat-sheet/">PHP Cheat Sheet - PHP - ILoveJackDaniels.com</a>I think that you will like this if you are doing any php development.</article>

@@ -1,0 +1,1 @@
+<article><h2>Internet Archive: Wayback Machine</h2><a href="http://www.archive.org/web/web.php">Internet Archive: Wayback Machine</a>If you wonder if the site you are visiting was any different in the old days, check this. I think it is a nice treat  and sometimes good for a laugh.</article>

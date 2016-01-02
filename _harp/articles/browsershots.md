@@ -1,0 +1,1 @@
+<article><h2>browsershots</h2>after a tip from marck, I checked out browsershots and got <a title="browsershots" href="http://v03.browsershots.org/website/http://www.wnas.nl/">this.<strong>Cool</strong> </a></article>

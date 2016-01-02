@@ -1,0 +1,1 @@
+<article><h2>nu.nl original</h2>The original html of nu.nl with an added base href...</article>

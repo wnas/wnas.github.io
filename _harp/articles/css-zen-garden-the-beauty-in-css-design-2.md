@@ -1,0 +1,1 @@
+<article><h2>css Zen Garden: The Beauty in CSS Design</h2>css Zen Garden: The Beauty in CSS Design <a href="http://www.csszengarden.com/?cssfile=http://www.prade.org/nicolas/zen/lighthouse/lighthouse.css">Lighthouse theme</a>to be looked at in detail (css), compare IE with firefox.</article>

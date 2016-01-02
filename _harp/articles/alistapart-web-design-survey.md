@@ -1,0 +1,1 @@
+<article><h2>Alistapart web design survey</h2>I just took the web design survey at Alistapart and so should you!<a href=http://alistapart.com/articles/webdesignsurvey' title='webdesignsurvey'><img src='http://www.wnas.nl/wp-content/uploads/2007/05/i-took-the-2007-survey.gif' alt='webdesignsurvey' /></a></article>

@@ -1,0 +1,1 @@
+<article><h2>fronteers logo</h2>logo van fronteers - vakvereniging voor front-end developers</article>

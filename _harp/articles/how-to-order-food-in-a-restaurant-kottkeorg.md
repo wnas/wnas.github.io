@@ -1,0 +1,1 @@
+<article><h2>How to order food in a restaurant (kottke.org)</h2><a href="http://www.kottke.org/05/05/how-to-order-food">How to order food in a restaurant (kottke.org)</a>Make sure you read all the points, finally coming to the best.. Everything bad is good for you...</article>

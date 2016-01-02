@@ -1,0 +1,1 @@
+<article><h2>MVC and javascript</h2>A nice <a title="article on model view controller" href="http://www.mercurytide.com/knowledge/white-papers/separating-structure-presentation-and-behaviour">article</a> explaining the separation of Model (xhtml) View (css) and Controller (javascript)</article>

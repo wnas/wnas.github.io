@@ -1,0 +1,1 @@
+<article><h2>Interface Design Skill-set Diagram</h2><a href="http://www.lukew.com/">Functioning Form - Interface Design Skill-set Diagram</a>www.lukew.comInteresting diagram, I plan on using it to make my boss understand my work :)...</article>

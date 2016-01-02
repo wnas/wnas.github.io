@@ -1,0 +1,1 @@
+<article><h2>About the Book - Designing Interfaces</h2><a href="http://designinginterfaces.com/">About the Book - Designing Interfaces</a>Great resource, start of a new collection...</article>

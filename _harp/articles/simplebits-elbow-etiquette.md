@@ -1,0 +1,1 @@
+<article><h2>SimpleBits &#124; Elbow Etiquette</h2><a href="http://www.simplebits.com/notebook/2005/04/18/elbow.html">SimpleBits | Elbow Etiquette</a>One of the most important questions in life everybody forgets :).</article>

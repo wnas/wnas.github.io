@@ -1,0 +1,1 @@
+<article><h2>comment Spam is a bitch</h2>Content spam is a bitch, I think I am going to block any comments for a while if this recent onslaught continues.And with the two comments I get a month, I don't think anybody would shed a tear about wnas.nl without comments...</article>

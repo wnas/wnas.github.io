@@ -1,0 +1,1 @@
+<article><h2>Pop up technique</h2><a href="http://www.naarvoren.nl/artikel/links.html">Naar voren</a>a good article (in dutch) about well behaving popup links.</article>

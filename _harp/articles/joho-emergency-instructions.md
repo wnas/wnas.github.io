@@ -1,0 +1,1 @@
+<article><h2>JOHO Emergency Instructions</h2><a href="http://www.hyperorg.com/misc/emergency.html">JOHO Emergency Instructions</a></article>

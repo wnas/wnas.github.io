@@ -1,0 +1,1 @@
+<article><h2>Joel on Software - Usability Testing with Morae</h2><a href="http://www.joelonsoftware.com/articles/UsabilityTestingwithMorae.html">Joel on Software - Usability Testing with Morae</a>A user interface is well-designed when the program behaves exactly how the user thought it would.</article>

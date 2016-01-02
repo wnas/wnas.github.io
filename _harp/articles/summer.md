@@ -1,0 +1,1 @@
+<article><h2>summer</h2>On a more personal note, the combination of summer evenings, a apple powerbook and airport create a nice place to work (in the garden...). Finally I can smoke and code at the same time. Haven't seen so many unsmoked luckys in years ...</article>

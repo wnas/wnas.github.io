@@ -1,0 +1,1 @@
+<article><h2>Redesign in progress (again)</h2>I will be extending my redesign, this is a major one, as I am currently building my own wordpress theme. If you want it I will make it public, but wait for all the javascript thingies I will put in. And all sorts of <a title="fam fam fam icons" href="http://www.famfamfam.com/">famfamfam icons</a>...</article>

@@ -1,0 +1,1 @@
+<article><h2>mighty mouse</h2>finally, I can get myself a goodlucking and functional mouse...<a href="http://www.apple.com/"><img src="http://images.apple.com/mightymouse/gallery/images/mightymousehero20050802.jpg" width="400" alt="mighty mouse" /></a></article>

@@ -1,0 +1,1 @@
+<article><h2>quirky mode</h2>a document which will throw Internet Explorer in quirky mode and show you the faulty box model.</article>

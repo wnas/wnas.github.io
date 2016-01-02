@@ -1,0 +1,1 @@
+<article><h2>Thompson_Feature_Fatigue.pdf (application/pdf Object)</h2><a href="http://www.gsb.stanford.edu/facseminars/events/marketing/pdfs%2005_06/Thompson_Feature_Fatigue.pdf">Thompson_Feature_Fatigue.pdf (application/pdf Object)</a></article>

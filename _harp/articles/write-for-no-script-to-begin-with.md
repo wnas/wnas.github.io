@@ -1,0 +1,1 @@
+<article><h2>Write for no script to begin with</h2><p>Other wise:</p><blockquote>	<p>If your web application fails in browsers with scripting disabled, Jakob Nielsen’s dog will come to your house and shit on your carpet.</p></blockquote><p>from <a href="http://diveintohtml5.org/history.html">Dive into HTML5</a></p></article>

@@ -1,0 +1,1 @@
+<article><h2>Eric Meyer on CSS: Picking a Rendering Mode</h2><a href="http://www.ericmeyeroncss.com/bonus/render-mode.html">Eric Meyer on CSS: Picking a Rendering Mode</a>Eric Meyer rocks...A very good aricle about css implementation, history and future...</article>

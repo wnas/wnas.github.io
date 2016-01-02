@@ -1,0 +1,1 @@
+<article><h2>leopard vs vista</h2>just a thought, Apple just anounced leopard for the spring of 2007. The question is, will it beat vista....This will be a bet I am almost willing to take (that is if I would gamble...).. Any thoughts my dear readers?</article>

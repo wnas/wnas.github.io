@@ -1,0 +1,1 @@
+<article><h2>prototype and jQuery</h2>a small <a href="http://blogs.pathf.com/agileajax/2007/08/jquery-vs-proto.html" title="agile ajax">piece</a> that compares the two frameworks, with some nice links to follow..</article>

@@ -1,0 +1,1 @@
+<article><h2>beginning is a time of great peril</h2>Wait and see, this blog is up and running, next step is to redesign this.. wait a couple of days for any real action..</article>

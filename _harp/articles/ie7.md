@@ -1,0 +1,1 @@
+<article><h2>/IE7/</h2><a href="http://dean.edwards.name/IE7/">/IE7/</a>Very, very cool. I will begin to try this one directly and will let you know what comes of it...</article>

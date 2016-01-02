@@ -1,0 +1,1 @@
+<article><h2>Deepest Sender</h2>mmmm, the name of this plug in makes me think. But maybe that is just me. Blogging from within firefox (extension), go and <a href="https://addons.mozilla.org/firefox/1811/">check</a> it out.</article>

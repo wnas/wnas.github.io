@@ -1,0 +1,1 @@
+<article><h2>brainjar</h2><a href="http://www.brainjar.com/dhtml/intro/">dom explanation</a>, duh</article>

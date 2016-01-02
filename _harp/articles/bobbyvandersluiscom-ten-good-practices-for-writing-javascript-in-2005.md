@@ -1,0 +1,1 @@
+<article><h2>bobbyvandersluis.com &#124; Ten good practices for writing JavaScript in 2005</h2><a href="http://www.bobbyvandersluis.com/articles/goodpractices.php">bobbyvandersluis.com | Ten good practices for writing JavaScript in 2005</a>Also true in 2006...</article>

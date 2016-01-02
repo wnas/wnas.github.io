@@ -1,0 +1,1 @@
+<article><h2>strict mode</h2>a document which will set Internet Explorers strict mode.</article>

@@ -1,0 +1,1 @@
+<article><h2>Redesign (partly) finished</h2>Finally I have taken the time to redesign, in about 90 minutes I rewrote the css of my wordpress theme.<!--more-->It passed my quick test in:safari 2firefox 1.5opera 8.5(all apple os x)And failed in:ie 5.2Please let me know what you think of it.....</article>

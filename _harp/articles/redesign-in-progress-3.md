@@ -1,0 +1,1 @@
+<article><h2>Redesign in progress</h2>This time I will do it for all to see, I mean take a look at what I am doing and comment on it. We will make it a team effort... (thanx jeroen for the remarks, nice to wake up to that :))</article>

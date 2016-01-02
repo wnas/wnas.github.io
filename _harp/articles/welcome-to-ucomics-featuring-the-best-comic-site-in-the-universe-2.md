@@ -1,0 +1,1 @@
+<article><h2>Welcome to uComics featuring -- The Best Comic Site In The Universe!</h2><a href="http://www.ucomics.com/calvinandhobbes/characters.phtml">Welcome to uComics featuring -- The Best Comic Site In The Universe!</a>Crucial information... I have been reading this comic even before I had my own version of Calvin (I named him Willem)...</article>

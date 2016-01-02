@@ -1,0 +1,1 @@
+<article><h2>MAX-WIDTH and flexible layout with short lines [usability, accessibility]</h2>undefined</article>
