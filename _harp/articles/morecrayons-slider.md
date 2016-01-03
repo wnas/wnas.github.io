@@ -1,1 +1,1 @@
-<article><h2>moreCrayons - slider</h2><time><span class="day">13</span><span class="month">9</span><span class="year">2005</span></time><a href="http://www.morecrayons.com/palettes/webSmart/slider.php#">moreCrayons - slider</a>a really cool tool to get your web colors right.</article>
+<article><h1>moreCrayons - slider</h1><time><span class="day">13</span><span class="month">9</span><span class="year">2005</span></time><a href="http://www.morecrayons.com/palettes/webSmart/slider.php#">moreCrayons - slider</a>a really cool tool to get your web colors right.</article>

@@ -1,1 +1,1 @@
-<article><h2>Pop up technique</h2><time><span class="day">13</span><span class="month">12</span><span class="year">2005</span></time><a href="http://www.naarvoren.nl/artikel/links.html">Naar voren</a>a good article (in dutch) about well behaving popup links.</article>
+<article><h1>Pop up technique</h1><time><span class="day">13</span><span class="month">12</span><span class="year">2005</span></time><a href="http://www.naarvoren.nl/artikel/links.html">Naar voren</a>a good article (in dutch) about well behaving popup links.</article>

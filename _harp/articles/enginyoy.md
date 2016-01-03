@@ -1,1 +1,1 @@
-<article><h2>ENGINYOY</h2><time><span class="day">7</span><span class="month">4</span><span class="year">2005</span></time><a href="http://www.enginyoy.nl/">ENGINYOY</a>The ony thing I miss now is a suitable phone...( I just have to work a little bit harder... )</article>
+<article><h1>ENGINYOY</h1><time><span class="day">7</span><span class="month">4</span><span class="year">2005</span></time><a href="http://www.enginyoy.nl/">ENGINYOY</a>The ony thing I miss now is a suitable phone...( I just have to work a little bit harder... )</article>

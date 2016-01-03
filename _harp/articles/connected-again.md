@@ -1,1 +1,1 @@
-<article><h2>Connected again</h2><time><span class="day">30</span><span class="month">7</span><span class="year">2005</span></time>after 3 horrible months, I have an internet connection again at my (new) home...Glad to say, that the withdrawal symptoms were not so bad..</article>
+<article><h1>Connected again</h1><time><span class="day">30</span><span class="month">7</span><span class="year">2005</span></time>after 3 horrible months, I have an internet connection again at my (new) home...Glad to say, that the withdrawal symptoms were not so bad..</article>

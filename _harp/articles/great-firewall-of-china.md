@@ -1,1 +1,1 @@
-<article><h2>Great firewall of china</h2><time><span class="day">1</span><span class="month">3</span><span class="year">2007</span></time></article>
+<article><h1>Great firewall of china</h1><time><span class="day">1</span><span class="month">3</span><span class="year">2007</span></time></article>

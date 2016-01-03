@@ -1,1 +1,1 @@
-<article><h2>index.html</h2><time><span class="day">10</span><span class="month">5</span><span class="year">2006</span></time></article>
+<article><h1>index.html</h1><time><span class="day">10</span><span class="month">5</span><span class="year">2006</span></time></article>

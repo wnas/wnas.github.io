@@ -13,7 +13,7 @@ var fs = require("fs");
  		year = '<span class="year">'+date.getFullYear()+'</span>';
 
  	var filename = x[i].slug+'.md',
- 		title = '<h2>'+ x[i].title + '</h2>',
+ 		title = '<h1>'+ x[i].title + '</h1>',
  		date = '<time>'+day + month + year+'</time>',
  		
  		content = '<article>'+title+date+x[i].content+'</article>';

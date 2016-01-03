@@ -1,1 +1,1 @@
-<article><h2>ipodtouch.jpg</h2><time><span class="day">5</span><span class="month">9</span><span class="year">2007</span></time></article>
+<article><h1>ipodtouch.jpg</h1><time><span class="day">5</span><span class="month">9</span><span class="year">2007</span></time></article>

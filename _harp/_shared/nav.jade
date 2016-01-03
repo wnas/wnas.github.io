@@ -1,3 +1,6 @@
-nav
-  a(href="/") Home
-  a(href="/about") About
+nav.nav
+	ul.nav--list
+		li(class="#{ current.source == 'index' ? 'nav--item__active' : '' } nav--item")
+			a(href="/" class="nav--link link") Home
+		li(class="#{ current.source == 'about' ? 'nav--item__active' : '' } nav--item")
+			a(href="/about" class="nav--link link") About

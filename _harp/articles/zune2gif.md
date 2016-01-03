@@ -1,1 +1,1 @@
-<article><h2>zune2.gif</h2><time><span class="day">7</span><span class="month">12</span><span class="year">2006</span></time></article>
+<article><h1>zune2.gif</h1><time><span class="day">7</span><span class="month">12</span><span class="year">2006</span></time></article>

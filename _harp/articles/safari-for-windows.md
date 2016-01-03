@@ -1,1 +1,1 @@
-<article><h2>Safari for Windows</h2><time><span class="day">10</span><span class="month">8</span><span class="year">2006</span></time>Here is one for all of you windows people out there, <a href="http://www.getwebkit.org/">Safari for Windows</a> (kinda...)</article>
+<article><h1>Safari for Windows</h1><time><span class="day">10</span><span class="month">8</span><span class="year">2006</span></time>Here is one for all of you windows people out there, <a href="http://www.getwebkit.org/">Safari for Windows</a> (kinda...)</article>

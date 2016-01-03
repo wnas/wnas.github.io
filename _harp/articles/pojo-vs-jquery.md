@@ -1,1 +1,1 @@
-<article><h2>pojo vs jquery</h2><time><span class="day">27</span><span class="month">7</span><span class="year">2007</span></time>the complete html, css and javascript files used to create this test...</article>
+<article><h1>pojo vs jquery</h1><time><span class="day">27</span><span class="month">7</span><span class="year">2007</span></time>the complete html, css and javascript files used to create this test...</article>

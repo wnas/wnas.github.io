@@ -1,1 +1,1 @@
-<article><h2>webdesignsurvey</h2><time><span class="day">2</span><span class="month">5</span><span class="year">2007</span></time></article>
+<article><h1>webdesignsurvey</h1><time><span class="day">2</span><span class="month">5</span><span class="year">2007</span></time></article>

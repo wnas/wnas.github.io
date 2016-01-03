@@ -1,1 +1,1 @@
-<article><h2>picture-1.png</h2><time><span class="day">5</span><span class="month">9</span><span class="year">2007</span></time></article>
+<article><h1>picture-1.png</h1><time><span class="day">5</span><span class="month">9</span><span class="year">2007</span></time></article>

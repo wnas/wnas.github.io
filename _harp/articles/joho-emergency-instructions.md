@@ -1,1 +1,1 @@
-<article><h2>JOHO Emergency Instructions</h2><time><span class="day">4</span><span class="month">7</span><span class="year">2005</span></time><a href="http://www.hyperorg.com/misc/emergency.html">JOHO Emergency Instructions</a></article>
+<article><h1>JOHO Emergency Instructions</h1><time><span class="day">4</span><span class="month">7</span><span class="year">2005</span></time><a href="http://www.hyperorg.com/misc/emergency.html">JOHO Emergency Instructions</a></article>

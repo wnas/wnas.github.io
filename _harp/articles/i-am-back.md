@@ -1,1 +1,1 @@
-<article><h2>I am back</h2><time><span class="day">12</span><span class="month">5</span><span class="year">2005</span></time>Been away for a while, watch here for photos of my gran canaria vacation...</article>
+<article><h1>I am back</h1><time><span class="day">12</span><span class="month">5</span><span class="year">2005</span></time>Been away for a while, watch here for photos of my gran canaria vacation...</article>

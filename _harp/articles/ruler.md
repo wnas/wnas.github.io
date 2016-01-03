@@ -1,1 +1,1 @@
-<article><h2>ruler</h2><time><span class="day">29</span><span class="month">6</span><span class="year">2006</span></time>the Airbag ruler</article>
+<article><h1>ruler</h1><time><span class="day">29</span><span class="month">6</span><span class="year">2006</span></time>the Airbag ruler</article>

@@ -1,5 +1,6 @@
-
 ul
-	each article, slug in public.articles._data
+	- public.articles._data.reverse();
+	each article, slug in public.articles._data 
+		if article.content_type != '2'
 		li
-			a(href="/articles/#{ article.slug }") #{ article.title } #{article.pubdate}
+			a(href="/articles/#{ article.slug }") #{ article.title } #{article.content_type}

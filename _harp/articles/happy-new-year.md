@@ -1,1 +1,1 @@
-<article><h2>Happy new year</h2><time><span class="day">1</span><span class="month">1</span><span class="year">2007</span></time>On the first day of the year, a short message.Happy new year to you all.</article>
+<article><h1>Happy new year</h1><time><span class="day">1</span><span class="month">1</span><span class="year">2007</span></time>On the first day of the year, a short message.Happy new year to you all.</article>

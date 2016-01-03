@@ -1,1 +1,1 @@
-<article><h2>The Miraculous Winking Jesus</h2><time><span class="day">16</span><span class="month">4</span><span class="year">2005</span></time><a href="http://www.winkingjesus.com/">The Miraculous Winking Jesus</a>no comments :)</article>
+<article><h1>The Miraculous Winking Jesus</h1><time><span class="day">16</span><span class="month">4</span><span class="year">2005</span></time><a href="http://www.winkingjesus.com/">The Miraculous Winking Jesus</a>no comments :)</article>

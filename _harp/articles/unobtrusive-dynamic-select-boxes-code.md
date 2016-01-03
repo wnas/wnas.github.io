@@ -1,1 +1,1 @@
-<article><h2>Unobtrusive dynamic select boxes (code)</h2><time><span class="day">7</span><span class="month">3</span><span class="year">2007</span></time>the code</article>
+<article><h1>Unobtrusive dynamic select boxes (code)</h1><time><span class="day">7</span><span class="month">3</span><span class="year">2007</span></time>the code</article>

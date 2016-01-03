@@ -1,1 +1,1 @@
-<article><h2>Online CSS Optimizer / Optimiser</h2><time><span class="day">27</span><span class="month">9</span><span class="year">2005</span></time><a href="http://www.cssoptimiser.com/index.php">Online CSS Optimizer / Optimiser</a>Something to look at, for future use...</article>
+<article><h1>Online CSS Optimizer / Optimiser</h1><time><span class="day">27</span><span class="month">9</span><span class="year">2005</span></time><a href="http://www.cssoptimiser.com/index.php">Online CSS Optimizer / Optimiser</a>Something to look at, for future use...</article>
