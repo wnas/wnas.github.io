@@ -1,6 +1,6 @@
-ul
+ul.link-list
 	- public.articles._data.reverse();
 	each article, slug in public.articles._data 
 		if article.content_type != '2'
-		li
-			a(href="/articles/#{ article.slug }") #{ article.title } #{article.content_type}
+		li.link-list__item
+			a(href="/articles/#{ article.slug }" class="link-list__link link") #{ article.title }
